@@ -36,7 +36,7 @@ public class Main {
         void Output()
         {
             Solve();
-            System.out.println("\nРозв'язок першого прикладу: ");
+            System.out.println("\n  Розв'язок першого прикладу: ");
             System.out.println("y = " + y);
             System.out.println("Розв'язок другого прикладу : ");
             System.out.println("z = " + z);
